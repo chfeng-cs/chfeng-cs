@@ -12,9 +12,12 @@ Currently contributing to [vllm-project/vllm](https://github.com/vllm-project/vl
 
 ## Focus Areas
 
-**LLM Inference** — vLLM internals, KV cache transfer, prefill-decode disaggregation, PagedAttention  
-**Kernel Development** — CUDA, Triton (fused kernels, memory hierarchy optimization)  
-**Distributed Systems** — background in distributed databases (PolarDB/MySQL), now applying to inference clusters  
+**LLM Inference** 
+- vLLM internals
+- KV cache transfer
+- Prefill-decode disaggregation
+- PagedAttention
+- Speculative decoding  
 
 ---
 
@@ -22,7 +25,7 @@ Currently contributing to [vllm-project/vllm](https://github.com/vllm-project/vl
 
 | Project | Area | Highlights |
 |---------|------|------------|
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | Scheduler / KV Cache | Bounded prefetch scheduling, HMA default behavior, metrics fixes |
+| vLLM | Scheduler / KV Cache | Bounded prefetch scheduling, HMA default behavior, metrics fixes |
 
 → Full contribution list: [vllm-contributions](https://github.com/chfeng-cs/vllm-contributions)
 
