@@ -11,9 +11,9 @@ Infrastructure engineer focused on **LLM inference systems**.
 
 ## Open Source
 
-Currently contributing to [vllm-project/vllm](https://github.com/vllm-project/vllm) — KV cache transfer, scheduler optimization, and hybrid KV cache management (HMA).
+Currently contributing to [vllm](https://github.com/vllm-project/vllm) — KV cache transfer, scheduler optimization, and hybrid KV cache management (HMA).
 
-See detail at my repo: [vllm-contributions](https://github.com/chfeng-cs/vllm-contributions)
+See detail at my [vllm contributions](https://github.com/chfeng-cs/vllm-contributions)
 
 ## Contact
 
