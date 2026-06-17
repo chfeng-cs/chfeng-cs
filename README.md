@@ -6,35 +6,18 @@ Infrastructure engineer focused on **LLM inference systems**.
 - B.S. Computer Science — Harbin Institute of Technology
 - 2 yrs at Alibaba
 
-Currently contributing to [vllm-project/vllm](https://github.com/vllm-project/vllm) — KV cache transfer, scheduler optimization, and hybrid KV cache management (HMA).
 
----
-
-## Focus Areas
-
-**LLM Inference** 
-- vLLM internals
-- KV cache transfer
-- Prefill-decode disaggregation
-- PagedAttention
-- Speculative decoding  
-
----
+**Focus Areas**: LLM Inference / GPU Performance
 
 ## Open Source
 
-| Project | Area | Highlights |
-|---------|------|------------|
-| vLLM | Scheduler / KV Cache | Bounded prefetch scheduling, HMA default behavior, metrics fixes |
+Currently contributing to [vllm-project/vllm](https://github.com/vllm-project/vllm) — KV cache transfer, scheduler optimization, and hybrid KV cache management (HMA).
 
-→ Full contribution list: [vllm-contributions](https://github.com/chfeng-cs/vllm-contributions)
+See detail at my repo: [vllm-contributions](https://github.com/chfeng-cs/vllm-contributions)
 
----
+## Contact
 
-## Stack
 
-`Python` `CUDA` `Triton` `C++` `PyTorch` `Linux`
+📫 ethan.fengch [at] gmail.com
 
----
-
-📫 ethan.fengch@gmail.com
+ 🔗 [LinkedIn](https://www.linkedin.com/in/ethan-feng-50535b417/)
