@@ -18,6 +18,6 @@ See detail at my [vllm contributions](https://github.com/chfeng-cs/vllm-contribu
 ## Contact
 
 
-📫 ethan.fengch [at] gmail.com
+📫 ethan.fengch [at] gmail [dot] com
 
  🔗 [LinkedIn](https://www.linkedin.com/in/ethan-feng-50535b417/)
